@@ -10,10 +10,11 @@ authors:
   - Lun Du
   - Shuwen Yang
   - Yilun Jin
-date: '2019'
+
+date: '2019-08-10'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2019'
+publishDate: '2019-8-10'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
