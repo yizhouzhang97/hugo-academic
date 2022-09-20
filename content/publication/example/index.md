@@ -15,7 +15,6 @@ authors:
 
 
 date: '2019'
-doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2019'
