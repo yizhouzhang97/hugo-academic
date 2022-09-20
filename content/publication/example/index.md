@@ -10,8 +10,6 @@ authors:
   - Lun Du
   - Shuwen Yang
   - Yilun Jin
-
-
 date: '2019'
 
 # Schedule page publish date (NOT publication's date).
