@@ -28,10 +28,10 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: University of Southern California
-      year: 2019 to present
-    - course: BSc in Computer Science
+      year: 2019 - present
+    - course: BSc in Computer Science (Summa Cum Laude)
       institution: Peking University
-      year: 2015 to 2019
+      year: 2015 - 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
