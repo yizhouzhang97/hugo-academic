@@ -32,6 +32,7 @@ education:
     - course: BSc in Computer Science (Summa Cum Laude)
       institution: Peking University
       year: 2015 - 2019
+      Top-10 Undergraduate Thesis
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
