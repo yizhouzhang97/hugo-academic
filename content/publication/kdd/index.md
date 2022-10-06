@@ -6,7 +6,7 @@ title: 'Identifying Coordinated Accounts on Social Media through Hidden Influenc
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Karishma Sharma*
-  - admin\*
+  - admin *
   - Emilio Ferrara
   - Yan Liu
 
