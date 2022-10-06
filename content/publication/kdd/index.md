@@ -5,10 +5,16 @@ title: 'Identifying Coordinated Accounts on Social Media through Hidden Influenc
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Karishma Sharma*
-  - admin '*'
+  - Karishma Sharma
+  - admin
   - Emilio Ferrara
   - Yan Liu
+
+
+author_notes:
+  - 'Equal Contribution'
+  - 'Equal Contribution'
+
 
 date: '2021-05-18'
 
