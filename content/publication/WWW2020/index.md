@@ -22,6 +22,8 @@ publishDate: '2020-04-20'
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
 
+publication_types: ['1']
+
 # Publication name and optional abbreviated publication name.
 publication: In *Proceedings of The Web Conference 2020*
 publication_short: In *TheWebConf 2020*
