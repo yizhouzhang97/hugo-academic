@@ -21,6 +21,8 @@ publishDate: '2019-8-10'
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
 
+publication_types: ['1']
+
 # Publication name and optional abbreviated publication name.
 publication: In *Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence*
 publication_short: In *IJCAI 2019*
