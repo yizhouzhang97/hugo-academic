@@ -40,7 +40,6 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://arxiv.org/abs/1906.00684'
-url_journal: 'https://ieeexplore.ieee.org/abstract/document/9241052'
 url_code: ''
 url_dataset: ''
 url_poster: ''
