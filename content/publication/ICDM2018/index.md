@@ -20,6 +20,8 @@ publishDate: '2018-12-30'
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
 
+publication_types: ['1']
+
 # Publication name and optional abbreviated publication name.
 publication: In *Proceedings of 2018 IEEE International Conference on Data Mining (ICDM)*
 publication_short: In *ICDM 2018*
