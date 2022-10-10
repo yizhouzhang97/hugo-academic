@@ -26,6 +26,8 @@ publishDate: '2021-08-14'
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
 
+publication_types: ['1']
+
 # Publication name and optional abbreviated publication name.
 publication: In *Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining*
 publication_short: In *KDD 2021*
