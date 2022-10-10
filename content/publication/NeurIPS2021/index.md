@@ -25,6 +25,8 @@ publishDate: '2021-12-06'
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
 
+publication_types: ['1']
+
 # Publication name and optional abbreviated publication name.
 publication: In *Advances in Neural Information Processing Systems*
 publication_short: In *NeurIPS 2021*
