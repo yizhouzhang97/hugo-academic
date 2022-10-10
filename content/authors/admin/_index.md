@@ -64,6 +64,8 @@ email: 'zhangyiz@usc.edu'
 highlight_name: true
 ---
 
-I am a Ph.D. student advised by Prof. Yan Liu at the Department of Computer Science, Viterbi School of Engineering. My research interests mainly focus on Graph Representation Learning and Time Series and their application to social science and natural science. Before that, I received my Bachelor of Science degree from Peking University. During my undergraduate time, I researched with Prof. Guojie Song on Graph Representation Learning. I also spent a summer in MILA for short research advised by Prof. Jian Tang.
+I am a Ph.D. student advised by Prof. Yan Liu at the Department of Computer Science, Viterbi School of Engineering. Before that, I received my Bachelor of Science degree from Peking University. During my undergraduate time, I researched with Prof. Guojie Song on Graph Representation Learning. I also spent a summer in MILA for short research advised by Prof. Jian Tang.
+
+My research interests mainly focus on machine learning and its application to social networks and social media. I work on developing machine learning models that can help people understand social networks and social media from different aspects, such as how to transfer the knowledge across different social networks, how to identify coordinated accounts and how to estimate the causal effect of misinformation (e.g. rumors and fake news) on user behaviours.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
