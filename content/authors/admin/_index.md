@@ -23,6 +23,7 @@ interests:
   - Time Series Analysis
   - Social Media Analysis
 
+
 # Education to show in About widget
 education:
   courses:
@@ -33,6 +34,11 @@ education:
       institution: Peking University
       year: 2015 - 2019
       award: Top-10 Undergraduate Thesis
+      
+# Interests to show in About widget
+review experience:
+  - SPC(meta-reviewer): AAAI 2023
+  - PC/Reviewer: IJCAI 2021, NeurIPS 2021, ICML 2022, NeurIPS 2022, SDM 2023
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
