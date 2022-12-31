@@ -16,10 +16,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include machine learning and its application on social media.
 
-# Interests to show in About widget
-review experience:
-  - SPC(meta-reviewer): AAAI 2023
-  - PC/Reviewer: IJCAI 2021, NeurIPS 2021, ICML 2022, NeurIPS 2022, SDM 2023
 
 # Interests to show in About widget
 interests:
@@ -75,5 +71,9 @@ highlight_name: true
 I am a Ph.D. student advised by Prof. Yan Liu at the Department of Computer Science, Viterbi School of Engineering, University of Southern California. Before that, I received my Bachelor of Science degree from Peking University. During my undergraduate time, I researched with Prof. Guojie Song on Graph Representation Learning. I also spent a summer in MILA for short research advised by Prof. Jian Tang.
 
 My research interests mainly focus on machine learning and its application to social networks and social media. I developed machine learning models and algorithms to help people understand social networks and social media from different aspects, such as how to transfer the knowledge across different social networks, how to identify coordinated accounts and how to estimate the causal effect of misinformation (e.g. rumors and fake news) on user behaviours.
+
+I have been reviewers/meta-reviewers for the following academic venues:
+  - SPC(meta-reviewer): AAAI 2023
+  - PC/Reviewer: IJCAI 2021, NeurIPS 2021, ICML 2022, NeurIPS 2022, SDM 2023
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
