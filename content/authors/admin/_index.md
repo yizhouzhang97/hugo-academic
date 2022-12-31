@@ -17,6 +17,11 @@ organizations:
 bio: My research interests include machine learning and its application on social media.
 
 # Interests to show in About widget
+review experience:
+  - SPC(meta-reviewer): AAAI 2023
+  - PC/Reviewer: IJCAI 2021, NeurIPS 2021, ICML 2022, NeurIPS 2022, SDM 2023
+
+# Interests to show in About widget
 interests:
   - Machine Learning
   - Graph Representation Learning
@@ -35,10 +40,7 @@ education:
       year: 2015 - 2019
       award: Top-10 Undergraduate Thesis
       
-# Interests to show in About widget
-review experience:
-  - SPC(meta-reviewer): AAAI 2023
-  - PC/Reviewer: IJCAI 2021, NeurIPS 2021, ICML 2022, NeurIPS 2022, SDM 2023
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
