@@ -76,4 +76,6 @@ I have been reviewers/meta-reviewers for the following academic venues:
   - SPC(meta-reviewer): AAAI 2023
   - PC/Reviewer: IJCAI 2021, NeurIPS 2021, ICML 2022, NeurIPS 2022, SDM 2023
 
+I am on the job market this year and actively looking for academic positions
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
