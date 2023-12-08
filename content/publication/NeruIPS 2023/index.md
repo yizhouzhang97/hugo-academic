@@ -30,7 +30,7 @@ publication_types: ['1']
 publication: In *Advances in Neural Information Processing Systems*
 publication_short: In *NeurIPS 2023*
 
-abstract: Meta-learning enables quick adaptation of machine learning models to new tasks with limited data. While tasks could come from varying distributions in reality, most of the existing meta-learning methods consider both training and testing tasks as from the same uni-component distribution, overlooking two critical needs of a practical solution: 
+abstract: a
 
 
 tags: []
