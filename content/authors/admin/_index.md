@@ -78,4 +78,4 @@ I have been reviewers/meta-reviewers for the following academic venues:
 
 I am on the job market this year (2023 and 2024) and actively looking for academic positions
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Yizhou_Zhang_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/New_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
